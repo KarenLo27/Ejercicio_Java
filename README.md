@@ -1,2 +1,2 @@
-# Ejercicio_Java
+# Ejercicio_Javascript
 :#
